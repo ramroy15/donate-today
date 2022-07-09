@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.decoration {
+    text-align: center;
+    background-image: url(images/donation1.jpg);
+    padding: 15% 15%;
+}
+
+.color {
+    color: white;
+}
+
+#button-decoration {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(236, 61, 55);
+    padding: 10px 20px;
+    border-radius: 7%;
+    background-image: linear-gradient(rgb(248, 107, 13), rgb(231, 65, 36));
+}
+
+.donate {
+    text-align: center;
+    padding: 15% 15%;
+}
